@@ -91,11 +91,6 @@ jobs:
           plugin_screenshot_selector: body
           plugin_screenshot_title: Screenshot
           plugin_screenshot_url: https://natro92.fun
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
-
           plugin_splatoon: yes
           plugin_splatoon_salmon_limit: 1
           plugin_splatoon_sections: player, versus, salmon-run
