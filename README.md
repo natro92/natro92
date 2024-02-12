@@ -6,22 +6,19 @@
   <samp>
     😆 Hey! Welcome to my profile
     <br />
-    <br />🍉 Take a look at my stats. 
+    <br />🍉 Take a look at my details 
     <br />
     <br />🌱 If you want to know more about me, please visit my <a href="https://natro92.fun/">blog</a>
     <br />
   </samp>
   <br><br />
   <img src="https://raw.githubusercontent.com/natro92/natro92/output/github-contribution-grid-snake.svg" alt="Natro92" />
-  <br><br />
-  <img src="https://count.getloli.com/get/@natro92?theme=rule34" alt="Natro92" />
-
-
-  <br><br />
-  
 </p>
-
-
+<h2>Details</h2>
+<img src="https://github.com/natro92/natro92/blob/main/github-metrics.svg"/>
 
 | <a> <img align="center" src="https://github-readme-status.natro92.fun/api?username=natro92&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Natro92's github stats" /> </a> | <a> <img align="center" src="https://github-readme-status.natro92.fun/api/top-langs/?username=natro92&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
+
+You are the
+<img src="https://count.getloli.com/get/@natro92?theme=rule34" alt="Natro92" /> one.
