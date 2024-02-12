@@ -81,35 +81,7 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_poopmap: yes
-          plugin_poopmap_days: 7
           plugin_projects: yes
           plugin_projects_limit: 4
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_mode: image
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: https://natro92.fun
-          plugin_splatoon: yes
-          plugin_splatoon_salmon_limit: 1
-          plugin_splatoon_sections: player, versus, salmon-run
-          plugin_splatoon_source: splatnet
-          plugin_splatoon_versus_limit: 1
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_steam: yes
-          plugin_steam_achievements_limit: 2
-          plugin_steam_games_limit: 1
-          plugin_steam_playtime_threshold: 2
-          plugin_steam_recent_games_limit: 1
-          plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: natro92
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_languages_other: yes
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: public
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: natro92
