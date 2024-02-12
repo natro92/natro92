@@ -11,10 +11,12 @@
     <br />🌱 If you want to know more about me, please visit my <a href="https://natro92.fun/">blog</a>
     <br />
   </samp>
-  
+  <br><br />
+  <img src="https://raw.githubusercontent.com/natro92/natro92/output/github-contribution-grid-snake.svg" alt="Natro92" />
   <br><br />
   <img src="https://count.getloli.com/get/@natro92?theme=rule34" alt="Natro92" />
-  <img src="https://raw.githubusercontent.com/natro92/natro92/output/github-contribution-grid-snake.svg" alt="Natro92" />
+
+
   <br><br />
   
 </p>
