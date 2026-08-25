@@ -709,6 +709,7 @@
                                 </g>
                                 <g transform="translate(510, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -729,13 +730,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                11
-                                <div class="bottom">Aug.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 12
+                                <div class="bottom">Aug.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -796,6 +792,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 24
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                25
                             </div>
                         </div>
                     </section>
@@ -805,13 +806,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                11
-                                <div class="bottom">Aug.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 12
+                                <div class="bottom">Aug.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -872,6 +868,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 24
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                25
                             </div>
                         </div>
                     </section>
@@ -961,14 +962,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2026, 07:18:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Aug 2026, 09:00:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
